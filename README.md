@@ -4,19 +4,17 @@
 ---
 
 ### 🌟 About Me  
-🎓 I'm a Computer Science Engineering student passionate about **building interactive web apps, designing intuitive UI/UX, and analyzing data for insights**.  
-💡 I enjoy learning new technologies, solving problems, and working on projects that make an impact.  
-🔭 Currently working on: **React projects, data visualization, and UI/UX case studies**.  
-🌱 Currently learning: **Advanced JavaScript, React Hooks, and Data Analytics tools**.  
+🎓 I'm a Computer Science Engineering student at **SRM Institute of Science and Technology (2023 – 2027)** with a **9.0/10 CGPA**.  
+💡 Passionate about **front-end development, UI/UX design, and data analytics**.  
+🔭 Currently working on: **React projects, dashboards, and design prototypes**.  
+🌱 Currently learning: **Advanced JavaScript, React Hooks, and SQL optimization**.  
 
 ---
 
-### 🔗 Connect With Me  
-<p align="left">
-<a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" /></a>
-<a href="https://github.com/ahillak16" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="30" width="30" /></a>
-<a href="mailto:yourmail@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="gmail" height="30" width="30" /></a>
-</p>
+### 🎓 Education  
+- **B.Tech – Computer Science and Engineering**  
+  SRM Institute of Science and Technology | 2023 – 2027  
+  **CGPA: 9.0 / 10**  
 
 ---
 
@@ -37,6 +35,30 @@
 
 ---
 
+### 📂 Projects  
+- **📊 Google Play Store Data Analysis**  
+  *Python, Pandas, NumPy, Matplotlib, Seaborn*  
+  - Conducted **exploratory data analysis (EDA)** on Play Store dataset.  
+  - Identified trends in **app categories, installs, size, and pricing**.  
+  - Cleaned messy data and visualized results to derive **business insights**.  
+
+- **🛒 E-commerce Website UI/UX Design**  
+  *Figma*  
+  - Designed an **interactive, user-friendly interface** for an online shopping platform.  
+  - Built **wireframes and prototypes** with mobile responsiveness and intuitive navigation.  
+
+---
+
+### 🏆 Certifications  
+- SQL (Advanced) – HackerRank  
+- Python Programming – GUVI  
+- Problem Solving – HackerRank  
+- AI for Beginners – HP Life  
+- AI on Jetson Nano – NVIDIA  
+- Participant – Build With India Hackathon  
+
+---
+
 ### 📊 GitHub Stats  
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahillak16&show_icons=true&locale=en&layout=compact" alt="ahillak16" />
@@ -48,18 +70,14 @@
 
 ---
 
-### 🎯 Featured Projects  
-- 🖥️ **Portfolio Website** – Designed and built a personal portfolio using HTML, CSS, JavaScript, and React.  
-- 📊 **Data Visualization Dashboard** – Analyzed datasets with Python (Pandas, Matplotlib) and built dashboards.  
-- 🎨 **UI/UX Designs** – Created multiple Figma prototypes focusing on user-friendly interfaces.  
+### 📬 Contact Me  
+<p align="left">
+<a href="https://www.linkedin.com/in/ahill-kumar-b07714289/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" /></a>
+<a href="https://github.com/ahillak16" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="30" width="30" /></a>
+<a href="mailto:ahillkumarak16@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="gmail" height="30" width="30" /></a>
+</p>
 
 ---
 
-### 🏆 Achievements & Certifications  
-- ✅ Completed **[Certification Name]** in [Technology]  
-- 🥇 Participated in **Hackathons & Coding Competitions**  
-- 📜 Ongoing projects in **Web Development & Data Analytics**  
+✨ _“Code, Create, Innovate!”_
 
----
-
-✨ _“Code, Create, Innovate!”_  
