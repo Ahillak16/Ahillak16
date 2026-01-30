@@ -53,7 +53,6 @@
 - SQL (Advanced) – HackerRank  
 - Python Programming – GUVI  
 - Problem Solving – HackerRank  
-- AI for Beginners – HP Life  
 - AI on Jetson Nano – NVIDIA  
 - Participant – Build With India Hackathon  
 
