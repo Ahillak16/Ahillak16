@@ -4,7 +4,7 @@
 ---
 
 ### 🌟 About Me  
-🎓 I'm a Computer Science Engineering student at **SRM Institute of Science and Technology (2023 – 2027)** with a **9.0/10 CGPA**.  
+🎓 I'm a Computer Science Engineering student at **SRM Institute of Science and Technology (2023 – 2027)** with a **8.9/10 CGPA**.  
 💡 Passionate about **front-end development, UI/UX design, and data analytics**.  
 🔭 Currently working on: **React projects, dashboards, and design prototypes**.  
 🌱 Currently learning: **Advanced JavaScript, React Hooks, and SQL optimization**.  
@@ -14,7 +14,7 @@
 ### 🎓 Education  
 - **B.Tech – Computer Science and Engineering**  
   SRM Institute of Science and Technology | 2023 – 2027  
-  **CGPA: 9.0 / 10**  
+  **CGPA: 8.9 / 10**  
 
 ---
 
